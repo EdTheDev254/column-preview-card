@@ -3,10 +3,10 @@ body{
   padding:0;
   box-sizing: border-box;
 }
-#footer{
+#contentinfo{
   text-align:center;
 }
-#footer a{
+#contentinfo a{
   font-family:"Big Shoulders Display";
 }
 
